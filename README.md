@@ -1,3 +1,4 @@
-## Repositório dedicado aos projetos/atividades do curso ONE - Oracle Next Education. Um curso de programação oferecido pela Oracle em parceria com a Alura.
+# Repositório dedicado aos projetos do curso ONE - Oracle Next Education.
+## Um curso de programação oferecido pela Oracle em parceria com a Alura.
 
-#### Jogo do número Secreto: https://gsecretnumber.vercel.app/
+#### * Jogo do número Secreto: https://gsecretnumber.vercel.app/
